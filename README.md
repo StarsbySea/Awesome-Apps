@@ -2,5 +2,5 @@
 Those great apps available on the Microsoft Store
 | Name | Describe | Link | Install with winget |
 | ---- | -------- | ---- | ------------------- |
-| Bandizip | | [![沙漠中的岩石图片](/assets/img/shiprock.jpg "Shiprock")](https://markdown.com.cn) |
+| Bandizip | | [![Microsoft Store badge logo](https://getbadgecdn.azureedge.net/images/English_L.png "Get it from Microsoft")](ms-windows-store://pdp/?ProductId=9WZDNCRFHVJL&mode=mini) |
 
