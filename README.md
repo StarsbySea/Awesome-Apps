@@ -6,3 +6,4 @@ Awesome Apps available on the Microsoft Store.
 | Firefox | Firefox Browser: fast, private & safe web browser. | 🏪 | ``winget install 9NZVDKPMR9RD`` |
 | Unigram | An unofficial uwp Telegram client for Windows 10 devices. Based on TDlib and specifically optimised for Windows 10. | 🏪 | ``winget install 9N97ZCKPD60Q`` |
 | Spotify | Listening to music and podcasts. | 🏪 | ``winget install 9NCBCSZSJRSB`` |
+| iTunes | iTunes is the easiest way to enjoy everything you need to be entertained. | 🏪 | ``winget install 9PB2MZ1ZMB1S`` |
