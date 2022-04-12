@@ -7,3 +7,11 @@ Awesome Apps available on the Microsoft Store.
 | Unigram | An unofficial uwp Telegram client for Windows 10 devices. Based on TDlib and specifically optimised for Windows 10. | 🏪 | ``winget install 9N97ZCKPD60Q`` |
 | Spotify | Listening to music and podcasts. | 🏪 | ``winget install 9NCBCSZSJRSB`` |
 | iTunes | iTunes is the easiest way to enjoy everything you need to be entertained. | 🏪 | ``winget install 9PB2MZ1ZMB1S`` |
+
+
+Commonly used by users in mainland China
+| Name | Describe | Link | Install with winget |
+| ---- | -------- | ---- | ------------------- |
+| WeChat | WeChat is a messaging and calling app that allows you to easily connect with family & friends across countries. | 🏪 | ``winget install 9NBLGGH4SLX7``
+| QQ | QQ is an instant messaging software created by Tencent for users to chat, share pictures, send files, voice and video anytime, anywhere. | 🏪 | ``winget install 9NHLGF0ZWC5S``
+| Bili | Bili is a third party application for Bilibili, developed using the UWP framework. | 🏪 | ``winget install 9MVN4NSLT150`` |
