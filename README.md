@@ -10,6 +10,7 @@ Awesome Apps available on the Microsoft Store.
 | IrfanView | IrfanView is a very fast, compact and innovative FREEWARE image viewer/converter for Windows. | 🏪 | ``winget install 9PJZ3BTL5PV6``
 | Disney+ | Stream your favorite movies, TV shows & Originals on Disney+ | 🏪 | ``winget install 9NXQXXLFST89``
 | Files | Files is a file manager with a powerful yet intuitive design. | 🏪 | ``winget install 9NGHP3DX8HDX``
+| Rufus | Rufus is a utility that helps format and create bootable USB flash drives. | 🏪 | ``winget install 9PC3H3V7Q9CH``
 
 Commonly used by users in mainland China
 | Name | Describe | Link | Install with winget |
