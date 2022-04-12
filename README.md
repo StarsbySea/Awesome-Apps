@@ -8,6 +8,7 @@ Awesome Apps available on the Microsoft Store.
 | Spotify | Listening to music and podcasts. | 🏪 | ``winget install 9NCBCSZSJRSB`` |
 | iTunes | iTunes is the easiest way to enjoy everything you need to be entertained. | 🏪 | ``winget install 9PB2MZ1ZMB1S`` |
 | IrfanView | IrfanView is a very fast, compact and innovative FREEWARE image viewer/converter for Windows. | 🏪 | ``winget install 9PJZ3BTL5PV6``
+| Disney+ | Stream your favorite movies, TV shows & Originals on Disney+ | 🏪 | ``winget install 9NXQXXLFST89``
 
 Commonly used by users in mainland China
 | Name | Describe | Link | Install with winget |
