@@ -9,6 +9,7 @@ Awesome Apps available on the Microsoft Store.
 | iTunes | iTunes is the easiest way to enjoy everything you need to be entertained. | 🏪 | ``winget install 9PB2MZ1ZMB1S`` |
 | IrfanView | IrfanView is a very fast, compact and innovative FREEWARE image viewer/converter for Windows. | 🏪 | ``winget install 9PJZ3BTL5PV6``
 | Disney+ | Stream your favorite movies, TV shows & Originals on Disney+ | 🏪 | ``winget install 9NXQXXLFST89``
+| Files | Files is a file manager with a powerful yet intuitive design. | 🏪 | ``winget install 9NGHP3DX8HDX``
 
 Commonly used by users in mainland China
 | Name | Describe | Link | Install with winget |
