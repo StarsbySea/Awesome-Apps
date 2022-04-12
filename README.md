@@ -7,7 +7,7 @@ Awesome Apps available on the Microsoft Store.
 | Unigram | An unofficial uwp Telegram client for Windows 10 devices. Based on TDlib and specifically optimised for Windows 10. | 🏪 | ``winget install 9N97ZCKPD60Q`` |
 | Spotify | Listening to music and podcasts. | 🏪 | ``winget install 9NCBCSZSJRSB`` |
 | iTunes | iTunes is the easiest way to enjoy everything you need to be entertained. | 🏪 | ``winget install 9PB2MZ1ZMB1S`` |
-
+| IrfanView | IrfanView is a very fast, compact and innovative FREEWARE image viewer/converter for Windows. | 🏪 | ``winget install 9PJZ3BTL5PV6``
 
 Commonly used by users in mainland China
 | Name | Describe | Link | Install with winget |
