@@ -14,4 +14,4 @@ Commonly used by users in mainland China
 | ---- | -------- | ---- | ------------------- |
 | WeChat | WeChat is a messaging and calling app that allows you to easily connect with family & friends across countries. | 🏪 | ``winget install 9NBLGGH4SLX7``
 | QQ | QQ is an instant messaging software created by Tencent for users to chat, share pictures, send files, voice and video anytime, anywhere. | 🏪 | ``winget install 9NHLGF0ZWC5S``
-| Bili | Bili is a third party application for Bilibili, developed using the UWP framework. | 🏪 | ``winget install 9MVN4NSLT150`` |
+| Bili | Bili is a third party application for Bilibili, developed using the UWP framework. | 🏪 | Unavailable |
